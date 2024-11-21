@@ -1,0 +1,12 @@
+res://player.tscn
+res://player.gd
+res://game.tscn
+res://pine_tree.tscn
+res://mob.gd
+res://mob.tscn
+res://characters/slime/slime.tscn
+res://gun.tscn
+res://gun.gd
+res://bullet.gd
+res://bullet.tscn
+res://game.gd
